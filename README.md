@@ -1,3 +1,3 @@
 # repo
-i am in dev branch
-editing from github 
+i am going in new branch
+trying to create new branch from edit
